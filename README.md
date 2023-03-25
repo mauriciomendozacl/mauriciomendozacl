@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm a Cybersecurity Expert! 👋
 
-<!--
-**mmendozac/mmendozac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 I have extensive experience in the financial and technology sectors, currently working as a Senior Security Consultant with a proven track record in leadership and specialist roles.
 
-Here are some ideas to get you started:
+💼 My expertise includes:
+- Design and implementation of secure solutions
+- Risk management and compliance
+- Ethical hacking and forensic analysis
+- Incident management and crisis response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technical skills:
+- AWS
+- SIEM
+- CASB
+- Project Management
+- Risk Management
+- Ethical Hacking
+- Security Awareness
+
+🌐 Languages: Spanish (native) and English (C1 Advanced)
+
+🔗 Let's connect and collaborate on cybersecurity projects!
+
+[![Linkedin Badge](https://img.shields.io/badge/-mmendozacl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmendozacl/)](https://www.linkedin.com/in/mmendozacl/)
+
